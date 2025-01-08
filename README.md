@@ -1,2 +1,1 @@
-# website
-Website for Illinois Know Your Rights 
+Website for Illinois Know Your Rights
